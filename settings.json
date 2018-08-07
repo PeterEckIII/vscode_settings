@@ -1,0 +1,25 @@
+{
+    "editor.fontFamily": "Operator Mono",
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 100,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontLigatures": true,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.fontFamily": "Inconsolata for Powerline",
+    "editor.colorDecorators": false,
+    "editor.formatOnPaste": true,
+    "editor.quickSuggestionsDelay": 1000,
+    "workbench.startupEditor": "none",
+    "terminal.integrated.shell.linux": "zsh",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "workbench.colorTheme": "Atom One Dark",
+    "window.zoomLevel": 0,
+}
